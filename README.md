@@ -7,7 +7,7 @@ TaskPlanner is an innovative application delicately developed by a team of skill
 **1. Download the Zip File**
 - Located at the dropdown button of Code
   
-**2. Extract the file **
+**2. Extract the file**
 - Extract the file into XAMPP'S "htdocs" directory.
   
 **3. Open php.ini File**
